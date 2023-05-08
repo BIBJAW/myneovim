@@ -9,7 +9,7 @@ Neovim is a highly customizable tex eidtor and a drop-in replacement for vim (vi
 ![UI](https://github.com/BIBJAW/myneovim/blob/main/neovimFinal.png?raw=true)
 
 ## File Tree
-
+```
 nvim
 ├── init.lua
 ├── lazy-lock.json
@@ -39,3 +39,4 @@ nvim
         ├── toggleterm.lua
         ├── treesitter.lua
         └── whichkey.lua
+```
