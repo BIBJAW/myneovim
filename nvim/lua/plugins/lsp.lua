@@ -12,7 +12,6 @@ require("mason").setup({
 
 require("mason-lspconfig").setup({
 	ensure_installed = {
-		"rust_analyzer",
 		"lua_ls",
 		"cssls",
 		"marksman",
@@ -30,21 +29,19 @@ require("mason-tool-installer").setup({
 	-- a list of all tools you want to ensure are installed upon
 	-- start; they should be the names Mason uses for each tool
 	ensure_installed = {
-
-		-- you can pin a tool to a particular version
-		{ "golangci-lint", version = "v1.47.0" },
-
 		-- you can turn off/on auto_update per tool
 		{ "bash-language-server", auto_update = true },
-
-		"lua-language-server",
-		"vim-language-server",
-		"stylua",
-		"shellcheck",
-		"editorconfig-checker",
-		"shellcheck",
-		"shfmt",
-		"vint",
+		{ "lua-language-server", auto_update = true },
+		{ "vim-language-server", auto_update = true },
+		{ "stylua", auto_update = true },
+		{ "editorconfig-checker" },
+		{ "html-lsp" },
+		{ "css-lsp" },
+		{ "pyright" },
+		{ "black" },
+		{ "autopep8" },
+		{ "json-lsp" },
+		{ "prettier" },
 	},
 
 	-- if set to true this will check each tool for updates. If updates
