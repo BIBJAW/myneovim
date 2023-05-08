@@ -6,7 +6,7 @@ Neovim is a highly customizable tex eidtor and a drop-in replacement for vim (vi
 
 ## Screenshots
 
-![UI](https://github.com/BIBJAW/myneovim/blob/main/neovimFinal.png?raw=true)
+
 
 ## File Tree
 ```
