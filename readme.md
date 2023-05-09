@@ -2,7 +2,7 @@
  
 ## Screenshots
 
-### Dashboard
+### Dashboard (Alpha Nvim)
 ![Dashboard](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/dashboard.png?raw=true)
 ### Coding UI
 ![CodeUI](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/codex.png?raw=true)
@@ -10,7 +10,7 @@
 ![Coding](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/coding.png?raw=true)
 ### LSP Manager (Mason)
 ![Mason As Language Server](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/mason.png?raw=true)
-### Package Manager
+### Package Manager (Lazy Nvim)
 ![Lazy nvim as Packager Manager](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/pkgm.png?raw=true)
 
 ### Aditional Packages:
