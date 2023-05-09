@@ -12,7 +12,7 @@ Neovim is a highly customizable tex eidtor and a drop-in replacement for vim (vi
 ![CodeUI](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/codex.png?raw=true)
 ### With Tmux
 ![Coding](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/coding.png?raw=true)
-### LSP Manager
+### LSP Manager (Mason)
 ![Mason As Language Server](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/mason.png?raw=true)
 ### Package Manager
 ![Lazy nvim as Packager Manager](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/pkgm.png?raw=true)
