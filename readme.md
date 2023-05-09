@@ -1,4 +1,4 @@
-# My Neovim Config (The best config is the one configured my yourself)
+# My Neovim Config (Mine's might not be the best. Because the best config is the one configured my yourself)
  
 ## Screenshots
 
