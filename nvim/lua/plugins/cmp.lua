@@ -31,7 +31,9 @@ cmp.setup({
 		["<C-e>"] = cmp.mapping.abort(),
 		["<CR>"] = cmp.mapping.confirm({ select = true }), -- Accept currently selected item. Set `select` to `false` to only confirm explicitly selected items.
 
-		["<Tab>"] = cmp.mapping(function(fallback)
+		-- Really Really Important ! If you want to use tab and shift+tab to navigate the suggestions just uncomment the [<Tab>] & [<S-Tab>] part. FYI it sometimes acts stupid.
+
+		--[[ ["<Tab>"] = cmp.mapping(function(fallback)
 			if cmp.visible() then
 				cmp.select_next_item()
 				-- You could replace the expand_or_jumpable() calls with expand_or_locally_jumpable()
@@ -53,9 +55,10 @@ cmp.setup({
 			else
 				fallback()
 			end
-		end, { "i", "s" }),
+		end, { "i", "s" }), ]]
 	}), -- end of mapping section
 
+	-- Managing Sources for completions
 	sources = cmp.config.sources({
 		{ name = "nvim_lsp" },
 		--{ name = 'vsnip' }, -- For vsnip users.
