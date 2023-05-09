@@ -1,9 +1,5 @@
 # My Neovim Config
-
-# Neovim Configuration
-
-Neovim is a highly customizable tex eidtor and a drop-in replacement for vim (vi improved). Moreover it can be configured by using lua. Thanks to the opensource community and the awesome developers and their well maintained documentations, I was finally able configure my own config. 
-
+ 
 ## Screenshots
 
 ### Dashboard
