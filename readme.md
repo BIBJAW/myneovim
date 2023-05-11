@@ -19,7 +19,10 @@
 - lazygit
 - npm
 - tmux
-
+## Installation
+```
+git clone https://github.com/BIBJAW/myneovim && cp -r ~/myneovim/nvim .config/
+```
 ## File Tree
 ```
 nvim
