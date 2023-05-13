@@ -31,6 +31,9 @@ local plugins = {
 	{ "ellisonleao/gruvbox.nvim" },
 	{ "sainnhe/gruvbox-material" },
 
+	-- For Transparency
+	{ "xiyaowong/transparent.nvim" },
+
 	-- Rainbos CSV
 	{ "mechatroner/rainbow_csv" },
 
