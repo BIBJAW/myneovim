@@ -7,7 +7,7 @@
 ### Coding UI
 ![CodeUI](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/codex.png?raw=true)
 ### With Tmux
-![Coding](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/coding.png?raw=true)
+![Coding](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/Coding.png)
 ### LSP Manager (Mason)
 ![Mason As Language Server](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/mason.png?raw=true)
 ### Package Manager (Lazy Nvim)
