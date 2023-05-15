@@ -26,6 +26,7 @@ git clone https://github.com/BIBJAW/myneovim && cp -r ~/myneovim/nvim .config/
 ## File Tree
 ```
 nvim
+.
 ├── init.lua
 ├── lazy-lock.json
 └── lua
@@ -48,10 +49,12 @@ nvim
         ├── lsp.lua
         ├── lsp-saga.lua
         ├── lualine.lua
+        ├── notify.lua
         ├── null-ls.lua
         ├── nvim-tree.lua
         ├── telescope.lua
         ├── toggleterm.lua
+        ├── transparent-nvim.lua
         ├── treesitter.lua
         └── whichkey.lua
 ```
