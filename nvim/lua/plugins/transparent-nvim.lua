@@ -25,6 +25,26 @@ require("transparent").setup({
 	},
 	extra_groups = {
 		"NormalFloat", -- plugins which have float panel such as Lazy, Mason, LspInfo
+		"FloatBorder",
+		"NvimTreeWinSeparator",
+		"NvimTreeNormal",
+		"NvimTreeNormalNC",
+		"TroubleNormal",
+		"TelescopeNormal",
+		"TelescopeBorder",
+		"WhichKeyFloat",
+
+		-- TODO: programmatically add this
+		"NotifyINFOBody",
+		"NotifyERRORBody",
+		"NotifyWARNBody",
+		"NotifyDEBUGBody",
+		"NotifyTRACEBody",
+		"NotifyINFOBorder",
+		"NotifyERRORBorder",
+		"NotifyWARNBorder",
+		"NotifyDEBUGBorder",
+		"NotifyTRACEBorder",
 	}, -- table: additional groups that should be cleared
 	exclude_groups = {}, -- table: groups you don't want to clear
 })
