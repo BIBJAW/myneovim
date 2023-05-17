@@ -8,7 +8,7 @@
 ![CodeUI](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/UIex.png?raw=true)
 ### LSP Manager (Mason)
 ![Mason As Language Server](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/Mason.png?raw=true)
-### Package Manager (Lazy Nvim)
+### Plugin Manager (Lazy Nvim)
 ![Lazy nvim as Packager Manager](https://github.com/BIBJAW/myneovim/blob/main/myneovimSS/Lazy.png?raw=true)
 
 ### Aditional Packages:
