@@ -29,7 +29,6 @@ local plugins = {
 
 	-- Colorscheme
 	{ "ellisonleao/gruvbox.nvim" },
-	{ "sainnhe/gruvbox-material" },
 
 	-- For Transparency
 	{ "xiyaowong/transparent.nvim" },
