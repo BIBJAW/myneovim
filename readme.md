@@ -1,4 +1,6 @@
-# My Neovim Config (Mine's might not be the best for you. Because the best config is the one configured by yourself)
+# ALERT!: All My configs will be maintained [here](https://github.com/BIBJAW/united_repo_of_configs) from now on....
+
+## My Neovim Config (Mine's might not be the best for you. Because the best config is the one configured by yourself)
  
 ## Screenshots
 
